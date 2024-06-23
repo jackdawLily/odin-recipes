@@ -1,0 +1,26 @@
+h1 {
+    background-color: lime;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+* {
+    font-family: Courier New, sans-serif;
+}
+
+.first,
+.second,
+.third {
+        background-color:yellow;
+        font-size: 20px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+li:hover {
+    background-color: white;
+}
